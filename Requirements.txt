@@ -1,0 +1,1 @@
+To run this code you'll be needing: python 3.x, and pygame, it uses some modules in python 3.x which would be; tkinter and winsound modules, while it is needed that you have pygame installed
